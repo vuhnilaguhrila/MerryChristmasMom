@@ -149,30 +149,6 @@ Header Styles Start
 Banner Styles Start
 -------------------------------------------------*/
 
-.banner-container {
-	width:960px;
-	height:auto;
-	clear:both;
-	margin:0 auto;
-	margin-bottom:40px;
-}
-.banner-top {
-	width:960px;
-	height:15px;
-	background:url(../images/banner-top.png) no-repeat;
-}
-.banner-middle {
-	width:930px;
-	height:auto;
-	padding-left:15px;
-	padding-right:15px;
-	background-color:#ffffff;
-}
-.banner-bottom {
-	width:960px;
-	height:15px;
-	background:url(../images/banner-bottom.png);
-}
 
  .momphoto {
         width: 960px;
