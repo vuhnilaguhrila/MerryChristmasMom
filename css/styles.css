@@ -186,6 +186,8 @@ Banner Styles Start
 }
 
  .imageContainer{
+         width: 960px;
+         height: 800px;
 	 border-radius: 25px;
 }
 
