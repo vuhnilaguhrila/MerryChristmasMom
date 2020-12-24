@@ -240,7 +240,7 @@ Banner Styles Start
 	color:#c6bca5;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
 	padding-bottom:20px;
-	font-size: 16px;
+	font-size: 18px;
 }
 .panel ul {
 	margin-top:30px;
@@ -252,6 +252,7 @@ Banner Styles Start
 .panel ul li a {
 	color:#ffffff;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+	font-size:18px;
 }
 .panel ul li a:hover {
 	color:#000000;
