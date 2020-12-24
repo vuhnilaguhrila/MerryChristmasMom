@@ -159,7 +159,7 @@ Banner Styles Start
 .banner-top {
 	width:960px;
 	height:15px;
-	background:url(../images/banner-top.png) no-repeat;
+	background-color: #00873E;
 }
 .banner-middle {
 	width:930px;
@@ -171,7 +171,7 @@ Banner Styles Start
 .banner-bottom {
 	width:960px;
 	height:15px;
-	background:url(../images/banner-bottom.png);
+	background-color: #00873E;
 }
 
  .momphoto {
