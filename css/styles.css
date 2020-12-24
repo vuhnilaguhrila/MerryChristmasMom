@@ -189,11 +189,13 @@ Banner Styles Start
          width: 960px;
          height: 800px;
 	 border-radius: 25px;
+	 width:100%; 
+	 height:100%;
 }
 
  .momphoto {
-        width: 960px;
-        height: 800px;
+        width: 100%;
+	height: 100%;
 	text-align: center;
 	border-radius: 25px;
  }
