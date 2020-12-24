@@ -110,6 +110,7 @@ Header Styles Start
 -------------------------------------------------*/
 
 .header {
+	background:url(../images/body-bg.png);
 	width:960px;
 	height:auto;
 	text-align:center;
