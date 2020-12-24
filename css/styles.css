@@ -155,6 +155,7 @@ Banner Styles Start
 	clear:both;
 	margin:0 auto;
 	margin-bottom:40px;
+	background-color: #00873E;
 }
 .banner-top {
 	width:960px;
@@ -163,7 +164,7 @@ Banner Styles Start
 }
 .banner-middle {
 	width:930px;
-	height:620px;
+	height:auto;
 	padding-left:15px;
 	padding-right:15px;
 	background-color:#ffffff;
