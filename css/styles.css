@@ -116,6 +116,8 @@ Header Styles Start
 	text-align:center;
 	margin:0 auto;
 	clear:both;
+	border-radius: 25px;
+	padding-top: 10px;
 }
 .header h1 {
 	font-size:24px;
@@ -187,6 +189,7 @@ Banner Styles Start
         width: 960px;
         height: 800px;
 	text-align: center;
+	border-radius: 25px;
  }
 
 /*-------------------------------------------------
