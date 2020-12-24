@@ -185,6 +185,10 @@ Banner Styles Start
 	background-color: #00873E;
 }
 
+ .imageContainer{
+	 border-radius: 25px;
+}
+
  .momphoto {
         width: 960px;
         height: 800px;
